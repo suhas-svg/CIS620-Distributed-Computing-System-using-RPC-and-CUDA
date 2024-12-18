@@ -73,7 +73,7 @@ A sample input file containing floating-point numbers for linked list-based comp
 Run the following command to compile the client and server programs:
 ```bash
 make
-
+```
 
 #### 2. Start the Servers
 Open **five terminals**, one for each server, and run the following command on the respective machines:
